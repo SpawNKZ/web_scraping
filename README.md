@@ -16,7 +16,6 @@ scrapper = ScrapCoinmarket()
 ```
 #### Examples
 ```
-# /simple/price endpoint with the required parameters
 >>> scrapper.get_scrap('Bitcoin')
 Name - Bitcoin
 Symbol - BTC
