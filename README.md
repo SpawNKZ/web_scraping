@@ -18,5 +18,13 @@ scrapper = ScrapCoinmarket()
 ```
 # /simple/price endpoint with the required parameters
 >>> scrapper.get_scrap('Bitcoin')
-{'bitcoin': {'usd': 3462.04}}
+Name - Bitcoin
+Symbol - BTC
+Market Cap - $939,930,832,472
+Price - $49,902.22
+Circulating Supply - 18,835,450 BTC
+Volume(24h) - $35,338,490,241
+%1h - -0.45%
+%24h - 4.71%
+%7d - 18.58%
 ```
